@@ -1,6 +1,4 @@
-Absolutely ✅ — a good GitHub **README** makes your project stand out to recruiters and hiring managers. Below is a polished **README template** for your **Ethnic Wear Customer Analytics Dashboard** project, tailored for a Data Analyst portfolio:
 
----
 
 # 🛍️ Ethnic Wear Customer Analytics Dashboard
 
@@ -8,6 +6,11 @@ Absolutely ✅ — a good GitHub **README** makes your project stand out to recr
 
 This project analyzes **customer purchase behavior** in the ethnic wear retail domain to uncover insights on **sales performance, customer demographics, and regional trends**.
 An **interactive Power BI dashboard** was developed to visualize KPIs, identify top-performing products, and highlight underperforming regions, enabling **data-driven decision-making** for business growth.
+
+
+## 📸 Dashboard Preview
+![Uploading image.png…]()
+
 
 ---
 
@@ -74,5 +77,4 @@ Ethnic-Wear-Customer-Analytics-Dashboard/
 
 ---
 
-## 📸 Dashboard Preview
 
