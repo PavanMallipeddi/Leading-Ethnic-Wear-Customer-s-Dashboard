@@ -11,6 +11,7 @@ An **interactive Power BI dashboard** was developed to visualize KPIs, identify 
 ## 📸 Dashboard Preview
 ![Uploading image.png…]()
 
+<img width="1436" height="796" alt="Screenshot 2025-09-28 133009" src="https://github.com/user-attachments/assets/b96c68fc-ab59-4194-ac9d-b8ef94b2d48c" />
 
 ---
 
